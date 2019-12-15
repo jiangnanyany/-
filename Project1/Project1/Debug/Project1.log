@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\11649\source\repos\project1\project1\源.cpp(80): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\11649\source\repos\project1\project1\源.cpp(506): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project1.vcxproj -> C:\Users\11649\source\repos\Project1\Debug\Project1.exe
